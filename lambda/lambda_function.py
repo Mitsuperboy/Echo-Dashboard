@@ -11,7 +11,7 @@ from typing import Dict, Any
 
 #################### Change this ########################
 
-DASHBOARD_URL = "http://homeassistant.local:8123/echo-show-5-dashboard/1?edit=1"
+DASHBOARD_URL = "Put home assistant dashboard URL here"
 KIOSK_MODE = True
 
 #########################################################
